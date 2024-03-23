@@ -40,7 +40,6 @@
     "kleur": "~4.1.5",
     "mustache": "~4.2.0",
     "node.extend": "~2.0.3",
-    "puppeteer": "npm:@cloudflare/puppeteer@^0.0.6",
     "semver": "~7.6.0"
   },
   "devDependencies": {
